@@ -1,0 +1,157 @@
+#home page
+p {
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+margin-top: 0;
+font-size: medium;
+font-weight: bold;
+
+}
+.h4 { 
+color: white;
+}
+
+.Home {
+background-color: rgb(255, 0, 255);
+color:white;
+border-color:rgb(0, 0, 255) ;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 16px;
+padding-right: 16px;
+margin-left:16px ;
+margin-right: 10px;
+border-radius: 20px;
+cursor: pointer;
+box-shadow:10px 10px 10px rgb(0, 0, 0); 
+}
+.Home:hover {
+background-color:rgb(0, 30, 128);
+transition-duration: 0.15s;
+transition:1s; 
+}
+
+.About-us {
+background-color: rgb(255, 0,255);
+color:white; 
+border-color: rgb(0, 0, 255);
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 16px;
+margin-left: 0;
+margin-right: 10px;
+padding-right: 16px;
+border-radius: 20px;
+cursor: pointer; 
+box-shadow:10px 10px 10px rgb(0, 0, 0);
+}
+
+.About-us:hover {
+background-color:rgb(0, 30, 128);
+transition-duration: 0.15s;
+transition:1s; 
+}
+
+.About-us-active {
+background-color:rgb(2, 0, 128);
+}
+
+.Contact-us{
+background-color: rgb(255, 0,255);
+color:white; 
+border-color: rgb(0, 0, 255);
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 16px;
+padding-right: 16px;
+margin-right: 10px;
+border-radius: 20px;
+cursor: pointer;
+box-shadow:10px 10px 10px rgb(0, 0, 0);
+
+
+}
+
+.Contact-us:hover {
+background-color:rgb(0, 30, 128);
+transition-duration: 0.15s;
+transition:1s; 
+
+}
+
+.form {
+border: color rgb(87, 90, 87);
+border:width 10px;
+}
+
+* {
+box-sizing: border-box;
+}
+
+/* Style the header */
+header {
+background-color:rgb(211, 212, 219);
+padding: 6px;
+width:1500px;
+border-radius: 20px;
+text-align: center;
+font-size: 10px;
+color: white;
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the footer */
+footer {
+background-color: #255;
+padding: 10px;
+width:1500px;
+text-align: center;
+font-size: 20px;
+color: white;
+}
+
+
+.image {
+width: 1500px;
+height: 500px;
+}
+
+
+
+.table1 {
+border:10px;
+border-color: black;
+background-color:rgb(211, 212, 219);
+font-family: arial, sans-serif;
+width: 100%;
+margin-left:7px;
+margin-right:1px;
+  
+}
+
+
+.table2,th,td {
+border:10px;
+border-color:rgb(0, 0, 0);
+background-color:rgb(211, 212, 219);
+font-family: arial, sans-serif;
+width: 100%;
+margin-left:7px;
+margin-right:1px;
+  
+}
+text{
+text-align: center;
+}
+
+.form {
+border: color rgb(87, 90, 87);
+border:width 10px;
+}
+  
+     
+    
+      
